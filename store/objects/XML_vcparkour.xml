@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ASCII" ?> 
+	<itemlist> 
+		<item model="666" name="0"> 
+			<position x="-445.729" y="-1071.88" z="381.288" /> 
+			<rotation format="axisangle" x="-0.00499998" y="0" z="0" angle="-0.999988" /> 
+		</item> 
+		<item model="4025" name="1"> 
+			<position x="-453.202" y="-1118.58" z="378.744" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="666" name="2"> 
+			<position x="-445.729" y="-1006.78" z="382.408" /> 
+			<rotation format="axisangle" x="-0.00499999" y="0" z="0" angle="-0.999988" /> 
+		</item> 
+		<item model="344" name="3"> 
+			<position x="-439.116" y="-1058.78" z="382.589" /> 
+			<rotation format="axisangle" x="4.47035e-008" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="344" name="4"> 
+			<position x="-437.316" y="-1078.28" z="382.589" /> 
+			<rotation format="axisangle" x="4.47035e-008" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="2264" name="5"> 
+			<position x="-442.64" y="-1091.86" z="381.29" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="2295" name="6"> 
+			<position x="-439.018" y="-1052.09" z="383.16" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="580" name="7"> 
+			<position x="-438.739" y="-1038.92" z="384.054" /> 
+			<rotation format="axisangle" x="0.493344" y="-0.506189" z="-0.502968" angle="-0.4974" /> 
+		</item> 
+		<item model="580" name="8"> 
+			<position x="-443.845" y="-1039.19" z="384.041" /> 
+			<rotation format="axisangle" x="-0.402557" y="-0.593757" z="0.576665" angle="-0.39097" /> 
+		</item> 
+		<item model="344" name="9"> 
+			<position x="-438.456" y="-1023.37" z="383.509" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="344" name="10"> 
+			<position x="-437.316" y="-1072.88" z="382.589" /> 
+			<rotation format="axisangle" x="4.47035e-008" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="315" name="11"> 
+			<position x="-435.151" y="-1014.79" z="384.981" /> 
+			<rotation format="axisangle" x="0" y="0" z="0.0149994" angle="-0.999888" /> 
+		</item> 
+		<item model="344" name="12"> 
+			<position x="-446.889" y="-1063.94" z="382.481" /> 
+			<rotation format="axisangle" x="1.49012e-008" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="580" name="13"> 
+			<position x="-454.691" y="-983.595" z="379.889" /> 
+			<rotation format="axisangle" x="0.417319" y="-0.567514" z="-0.410899" angle="-0.578736" /> 
+		</item> 
+		<item model="405" name="14"> 
+			<position x="-454.868" y="-970.446" z="376.14" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="405" name="15"> 
+			<position x="-454.868" y="-969.316" z="376.14" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="405" name="16"> 
+			<position x="-454.868" y="-968.416" z="376.14" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="2267" name="17"> 
+			<position x="-454.609" y="-955.529" z="379.743" /> 
+			<rotation format="axisangle" x="0" y="0" z="0.999168" angle="-0.0407852" /> 
+		</item> 
+		<item model="2267" name="18"> 
+			<position x="-445.609" y="-951.329" z="386.642" /> 
+			<rotation format="axisangle" x="-6.31853e-008" y="-1.18505e-008" z="-0.80162" angle="0.597834" /> 
+		</item> 
+		<item model="2267" name="19"> 
+			<position x="-446.459" y="-944.859" z="388.232" /> 
+			<rotation format="axisangle" x="-0.457247" y="0.238048" z="-0.395693" angle="0.760056" /> 
+		</item> 
+		<item model="344" name="20"> 
+			<position x="-454.905" y="-964.164" z="376.025" /> 
+			<rotation format="axisangle" x="1.49012e-008" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="344" name="21"> 
+			<position x="-451.379" y="-939.175" z="388.998" /> 
+			<rotation format="axisangle" x="-0.670378" y="0.0167629" z="-0.129159" angle="-0.7305" /> 
+		</item> 
+		<item model="344" name="22"> 
+			<position x="-453.709" y="-939.045" z="388.698" /> 
+			<rotation format="axisangle" x="-0.666894" y="-0.0702823" z="-0.0333711" angle="-0.74108" /> 
+		</item> 
+		<item model="344" name="23"> 
+			<position x="-455.509" y="-939.045" z="388.398" /> 
+			<rotation format="axisangle" x="-0.666894" y="-0.0702823" z="-0.0333711" angle="-0.74108" /> 
+		</item> 
+		<item model="344" name="24"> 
+			<position x="-457.609" y="-939.345" z="388.098" /> 
+			<rotation format="axisangle" x="-0.666894" y="-0.0702823" z="-0.0333711" angle="-0.74108" /> 
+		</item> 
+		<item model="344" name="25"> 
+			<position x="-458.509" y="-939.645" z="388.098" /> 
+			<rotation format="axisangle" x="-0.666894" y="-0.0702823" z="-0.0333711" angle="-0.74108" /> 
+		</item> 
+		<item model="2267" name="26"> 
+			<position x="-459.709" y="-934.53" z="392.642" /> 
+			<rotation format="axisangle" x="-4.54578e-008" y="-4.54578e-008" z="-0.999168" angle="0.0407852" /> 
+		</item> 
+		<item model="344" name="27"> 
+			<position x="-459.316" y="-926.059" z="395.902" /> 
+			<rotation format="axisangle" x="4.47035e-008" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="4000" name="28"> 
+			<position x="-462.232" y="-915.583" z="388.1" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="670" name="29"> 
+			<position x="-453.971" y="-817.01" z="354.85" /> 
+			<rotation format="axisangle" x="-0.699725" y="-0.000367457" z="0.000367472" angle="-0.714412" /> 
+		</item> 
+	</itemlist> 

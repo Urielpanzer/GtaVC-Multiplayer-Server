@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII" ?> 
+	<itemlist> 
+		<item model="4021" name="0"> 
+			<position x="-308.976" y="-636.878" z="82.5118" /> 
+			<rotation format="axisangle" x="-1.86265e-009" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="4021" name="1"> 
+			<position x="-304.185" y="-713.608" z="82.5118" /> 
+			<rotation format="axisangle" x="5.00041e-005" y="2.89987e-007" z="0.999958" angle="0.00920388" /> 
+		</item> 
+	</itemlist> 

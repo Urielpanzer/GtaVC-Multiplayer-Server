@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<objectlist>
+	<object id="0">
+		<flags value="0" />
+		<texture path="seveneleven.txd" />
+		<collision path="seveneleven.col" />
+		<model path="seveneleven.dff" distance="299" />
+	</object>
+</objectlist>
